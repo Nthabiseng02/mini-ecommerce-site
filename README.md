@@ -12,6 +12,12 @@
    `git clone https://github.com/<YOUR-GITHUB-NAME>/mini-ecommerce-site.git` Replace this <YOUR-GITHUB-NAME> with your GitHub Name
 4) You can now start working on the project and practise using the following commands:
 
+   #### To create a new working branch
+
+   Run the command:  `git checkout-b develop`
+
+
+
    #### To add files in the staging area, making them ready for the next commit
    Use the command:  `git add .`
    
